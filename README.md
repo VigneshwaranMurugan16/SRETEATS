@@ -46,6 +46,6 @@ Profile Page:
 
 
 ## Sources:
-
+I have learnt fullstack devlopment from the below course and did this project on my own.Thanks for supporting😊
 [Udemy's web development course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
